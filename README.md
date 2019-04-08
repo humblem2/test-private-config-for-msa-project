@@ -1,5 +1,5 @@
 # test-private-config-for-msa-project
-test-private-config-for-msa-project
+[related code](https://github.com/humblem2/msa-springcloud-java-springboot-maven-properties)
 
 This is description of spring-cloud-config-repository 
 for MSA Projects 
