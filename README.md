@@ -9,9 +9,9 @@ Springboot Applciation:
 - Using Embeded WAS and Build/Package/run jar
 
 Run Configuration Enviroments:
-- Local Develop: dev
-- AWS Server Develop: beta
-- AWS Server Product: real
+- Local Develop: `dev`
+- AWS Server Develop: `beta`
+- AWS Server Product: `real`
 
 Services(5EA):
 - API Gateway Proxy Server(Edge server;Zuul Server) - Routing(Proxying) and L4 Loadbalancing(RR)
